@@ -26,19 +26,15 @@ Add the basic short tag to your page or post in wordpress to get a map. Wrap add
 </p>
 
 <p>
-<bold>center</bold> - 
-</p>
-
-<p>
-<bold>center</bold> - 
-</p>
-
-<p>
-<bold>center</bold> - 
+<b>zoom</b> - The zoom level for the map.
 </p>
 
 <h2>Optionsl Parameters</h2>
 
 <p>
+<b>height</b> - The height of the map in pixels. Default is 300.
+</p>
 
+<p>
+<b>width</b> - The width of the map in pixels. Default is 300.
 </p>
