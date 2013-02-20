@@ -4,7 +4,7 @@ GW Mapper
 <h2>Description</h2>
 
 <p>
-	This Wordpres Plugin allows a uwer to create a Google Map inside a post or page usinga short tag.
+	This Wordpress Plugin allows a uwer to create a Google Map inside a post or page usinga short tag.
 </p>
 
 <h2>Setup</h2>
