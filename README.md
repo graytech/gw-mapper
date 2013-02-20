@@ -16,7 +16,7 @@ Add the basic short tag to your page or post in wordpress to get a map. Wrap add
 <h2>short Tag</h2>
 
 <p>
-[grmapper center="10 Main Street, Detroit, MI" zoom="10"]
+[gwmapper center="10 Main Street, Detroit, MI" zoom="10"]
 </p>
 
 <h2>Required Parameters</h2>
@@ -38,3 +38,33 @@ Add the basic short tag to your page or post in wordpress to get a map. Wrap add
 <p>
 <b>width</b> - The width of the map in pixels. Default is 300.
 </p>
+
+<h2>Examples</h2>
+
+<p>
+To get a map of Detroit that is zoomed in to the downtown area, use:
+</p>
+<p>
+<code>[gwmapper center="Detroit, MI" zoom="10"]</code>
+</p>
+
+<p>
+To get a map of Detroit that is zoomed in to the downtown area that is 500 pixels wide and 400 pixels tall, use:
+</p>
+<p>
+<code>[gwmapper center="Detroit, MI" zoom="10" width="500" height="400"]</code>
+</p>
+
+<p>
+To get a map of Detroit Meto area that has a marker in Royal Oak, MI and one in Dearborn, MI, use:
+</p>
+<p>
+<code>[gwmapper center="Detroit, MI" zoom="8"]
+Royal Oak, MI
+Dearborn, MI
+[/gwmapper]]
+</code>
+</p>
+
+
+
