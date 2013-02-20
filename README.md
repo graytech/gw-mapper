@@ -16,7 +16,7 @@ Add the basic short tag to your page or post in wordpress to get a map. Wrap add
 <h2>short Tag</h2>
 
 <p>
-[gwmapper center="10 Main Street, Detroit, MI" zoom="10"]
+<code>[gwmapper center="10 Main Street, Detroit, MI" zoom="10"]</code>
 </p>
 
 <h2>Required Parameters</h2>
