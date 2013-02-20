@@ -22,7 +22,7 @@ Add the basic short tag to your page or post in wordpress to get a map. Wrap add
 <h2>Required Parameters</h2>
 
 <p>
-<bold>center</bold> - The address of the center point of the map. This can be any google acceptable map search string.
+<b>center</b> - The address of the center point of the map. This can be any google acceptable map search string.
 </p>
 
 <p>
