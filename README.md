@@ -29,7 +29,7 @@ Add the basic short tag to your page or post in wordpress to get a map. Wrap add
 <b>zoom</b> - The zoom level for the map.
 </p>
 
-<h2>Optionsl Parameters</h2>
+<h2>Optional Parameters</h2>
 
 <p>
 <b>height</b> - The height of the map in pixels. Default is 300.
