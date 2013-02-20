@@ -59,7 +59,8 @@ To get a map of Detroit that is zoomed in to the downtown area that is 500 pixel
 To get a map of Detroit Meto area that has a marker in Royal Oak, MI and one in Dearborn, MI, use:
 </p>
 <p>
-<code>[gwmapper center="Detroit, MI" zoom="8"]<br />
+<code>
+[gwmapper center="Detroit, MI" zoom="8"]<br />
 Royal Oak, MI<br />
 Dearborn, MI<br />
 [/gwmapper]]
