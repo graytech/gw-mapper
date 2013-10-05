@@ -1,6 +1,6 @@
 <?php if ( !defined('ABSPATH') ) {exit;}
 /**
- * @package GW Wordpress PayPal
+ * @package GW Mapper
  */
 
  
