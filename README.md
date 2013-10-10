@@ -63,7 +63,7 @@ To get a map of Detroit Meto area that has a marker in Royal Oak, MI and one in 
 [gwmapper center="Detroit, MI" zoom="8"]<br />
  Royal Oak, MI<br />
  Dearborn, MI<br />
- [/gwmapper]]
+ [/gwmapper]] 
 </code>
 </p>
 
